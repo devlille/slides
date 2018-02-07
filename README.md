@@ -6,3 +6,4 @@
 * [Femmes in IT](https://drive.google.com/open?id=1uUW9eF27kw1Rlz-HUWZ4K8WBR8zh7YYI74qEeHsMl-Q)
 * [Déployer et Monitorer avec elastic sur GCP](https://speakerdeck.com/elastic/deployer-et-monitorer-elasticsearch-sur-google-cloud-platform-gdg-lille)
 * [Cloud Functions: serverless avec Google Cloud Platform](https://www.youtube.com/watch?v=mdKW1xl4fMM)
+* [Créer un chatbot Google Assistant en 10 min c'est possible !](http://slides.com/wassimchegham/ok-google-i-m-feeling-lucky-assistant-chat-bot#)
